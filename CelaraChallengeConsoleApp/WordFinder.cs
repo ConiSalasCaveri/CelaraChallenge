@@ -2,7 +2,7 @@ using System.Text;
 
 namespace CelaraChallengeConsoleApp;
 
-internal sealed class WordFinder(IEnumerable<string> matrix)
+public sealed class WordFinder(IEnumerable<string> matrix)
 {
     private readonly string[] _matrix = matrix.ToArray();
     private readonly TrieNode _root = new();

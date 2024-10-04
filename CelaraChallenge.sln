@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionF
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelaraChallengeConsoleAppTests", "CelaraChallengeConsoleAppTests\CelaraChallengeConsoleAppTests.csproj", "{65BB1A50-1D3A-480A-A4DD-32C7CE5D4CAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{13001CA7-5A4C-491D-BDE7-ACD40C993240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13001CA7-5A4C-491D-BDE7-ACD40C993240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13001CA7-5A4C-491D-BDE7-ACD40C993240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BB1A50-1D3A-480A-A4DD-32C7CE5D4CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BB1A50-1D3A-480A-A4DD-32C7CE5D4CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BB1A50-1D3A-480A-A4DD-32C7CE5D4CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BB1A50-1D3A-480A-A4DD-32C7CE5D4CAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
